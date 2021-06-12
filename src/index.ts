@@ -4,4 +4,4 @@
 // The "WA" global object is available from anywhere.
 
 console.log('Script started successfully');
-WA.openCoWebSite('https://workadventu.re');
+WA.openCoWebSite('play.workadventure.euw1.prod.sgcip.io');
